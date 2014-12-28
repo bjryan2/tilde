@@ -3,6 +3,8 @@
 
 A simple, content focused theme for Ghost. I made this for a trip to South East Asia.
 
+## [Live Demo](http://tildethemedemo.herokuapp.com/)
+
 Example Pages
 ---
 ![Imgur](http://i.imgur.com/oPkUr5B.jpg)
