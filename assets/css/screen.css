@@ -204,11 +204,11 @@ body {
 }
 
 .post-arrow {
-  color: #BEBEBE;
+  color: #ACB04E;
 }
 
 .post-arrow:hover {
-  color: #ACB04E;
+  color: #626262;
 }
 
 .pagination {
@@ -218,7 +218,12 @@ body {
   color: #404040;
 }
 
-
+.post-footer p {
+  text-transform: uppercase;
+  font-weight: 100;
+  color: #626262;
+  letter-spacing: .15rem;
+}
 
 
 
